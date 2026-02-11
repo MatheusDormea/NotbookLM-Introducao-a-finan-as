@@ -1,0 +1,1 @@
+Este repositório foi criado como parte do desafio de projeto do bootcamp Riachuelo - Cibersegurança da Digital Innovation One (DIO), com o objetivo de explorar o potencial do NotebookLM, uma ferramenta baseada em Inteligência Artificial que auxilia no aprendizado, organização e compreensão de conteúdos através da análise de documentos e fontes personalizadas.
